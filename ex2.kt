@@ -4,9 +4,9 @@ fun main() {
 
 
     for (i in 0..100) {
-        if (i == 71)  
+        if (i == 71) { 
             println("its over 70!!!!")
-        break
+        break}
     }
 
     var temp = 35

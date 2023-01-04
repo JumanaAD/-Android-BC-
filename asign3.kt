@@ -11,9 +11,8 @@ fun main() {
     var cal =0.0
     for(elements in doublearray){
         cal+=elements
-        avg = (cal) / doublearray.size
 
-
-    }
+    } 
+    avg = (cal) / doublearray.size
     println("avg is $avg")
 }

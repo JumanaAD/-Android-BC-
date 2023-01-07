@@ -17,14 +17,6 @@ package com.example.jumanaalduhim
         mytodo1.changeTask(secondTask)
         mytodo1.showTHIS(2)
         mytodo1.showTHIS(5)
-
-
-
-
-
-
-
-
     }
 
 data class Task(var id : Int ,
